@@ -14,6 +14,8 @@ function App() {
         self-contained chunks of JSX.
       </p>
       <ExampleComponent />
+      <ExampleComponent />
+      <ExampleComponent />
     </div>
   );
 }
